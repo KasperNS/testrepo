@@ -1,3 +1,3 @@
 # testrepo
 
-testbody
+$body
